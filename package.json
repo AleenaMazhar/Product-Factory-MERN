@@ -1,0 +1,22 @@
+{
+  "name": "products_factory_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon backend/server.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.14.1",
+    "react-router-dom": "^7.5.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
